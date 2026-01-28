@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m ShashankKumar<br>👀 I’m Interested in QA and Software Testing with a focus on quality and usability<br>🌱 Entry-Level QA Engineer | Manual + Automation Testing | Selenium | SQL | Core Java<br>
-📃 Check out my resume here - My Resume.pdf<br>💞️ I’m looking to collaborate on Top MNC'S<br>📫 Reach out to me at  shashanknote7s@gmail.com<br>
+📃 Check out my resume here - file:///C:/Users/Shashank%20K/Downloads/My%20Resume.pdf<br>💞️ I’m looking to collaborate on Top MNC'S<br>📫 Reach out to me at  shashanknote7s@gmail.com<br>
 
 
 ## 🌐 Socials:
